@@ -1,0 +1,57 @@
+  skibidih.MyForm.resources - Embedded, ContainedInManifestFile, 
+  skibidih.Myform1.resources - Embedded, ContainedInManifestFile, 
+  skibidih.Myform2.resources - Embedded, ContainedInManifestFile, 
+  skibidih.MyForm3.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly skibidih, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualC.STLCLR, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class skibidih.MyForm3: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32, System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class skibidih.anjayy: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 hargaPerTiket : Public
+  Properties:
+    System.String rutekeberangkatan 'get set' : 
+    System.String jamKeberangkatan 'get set' : 
+    System.String tanggalKeberangkatan 'get set' : 
+    Int32 jumlahTiketDipilih 'get set' : 
+    System.String namapemesan 'get set' : 
+  Methods:
+    get_namapemesan(): PrivateScope, Public, HideBySig, SpecialName
+    set_namapemesan(String): PrivateScope, Public, HideBySig, SpecialName
+    get_jumlahTiketDipilih(): PrivateScope, Public, HideBySig, SpecialName
+    set_jumlahTiketDipilih(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_tanggalKeberangkatan(): PrivateScope, Public, HideBySig, SpecialName
+    set_tanggalKeberangkatan(String): PrivateScope, Public, HideBySig, SpecialName
+    get_jamKeberangkatan(): PrivateScope, Public, HideBySig, SpecialName
+    set_jamKeberangkatan(String): PrivateScope, Public, HideBySig, SpecialName
+    get_rutekeberangkatan(): PrivateScope, Public, HideBySig, SpecialName
+    set_rutekeberangkatan(String): PrivateScope, Public, HideBySig, SpecialName
+Class skibidih.Anjuyy: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String namapemesan 'get set' : 
+  Methods:
+    get_namapemesan(): PrivateScope, Public, HideBySig, SpecialName
+    set_namapemesan(String): PrivateScope, Public, HideBySig, SpecialName
+Class skibidih.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

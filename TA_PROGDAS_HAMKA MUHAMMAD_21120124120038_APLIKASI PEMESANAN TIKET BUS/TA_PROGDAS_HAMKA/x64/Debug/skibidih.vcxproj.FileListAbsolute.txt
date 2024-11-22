@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\skibidih\TA_PROGDAS_HAMKA\x64\Debug\skibidih.vcxproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\skibidih\TA_PROGDAS_HAMKA\x64\Debug\skibidih.MyForm.resources
+C:\Users\lenovo\source\repos\skibidih\TA_PROGDAS_HAMKA\x64\Debug\skibidih.Myform1.resources
+C:\Users\lenovo\source\repos\skibidih\TA_PROGDAS_HAMKA\x64\Debug\skibidih.Myform2.resources
+C:\Users\lenovo\source\repos\skibidih\TA_PROGDAS_HAMKA\x64\Debug\skibidih.MyForm3.resources
+C:\Users\lenovo\source\repos\skibidih\TA_PROGDAS_HAMKA\x64\Debug\skibidih.vcxproj.GenerateResource.cache
